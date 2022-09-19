@@ -1,0 +1,7 @@
+
+`	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ
+`
+java:S1192"JDefine a constant instead of duplicating this literal "Registro" 11 times.(π‚ώ
+b
+java:S1192"LDefine a constant instead of duplicating this literal "Datos.xlsx" 11 times.(π‚ώ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(΅°Ώπ
